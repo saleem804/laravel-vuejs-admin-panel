@@ -10,8 +10,9 @@ composer install
 ## To link storage folder with public for logo images
 ```
 php artisan storage:link
-
+```
 
 ## Project run
 ```
 php artisan serve
+```
